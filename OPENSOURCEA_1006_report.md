@@ -16,7 +16,7 @@
 **전희연 - ApacheSolr (LTR)**
 ![](https://blog.kakaocdn.net/dn/b3nwrp/btqEk3ketov/NdkOyh7FkRBe398ojgHRzk/img.png)
 - [https://solr.apache.org/](https://solr.apache.org/)
-### 1.**java로 개발된 오픈소스 엔터프라이즈 검색 플랫폼 (Apache 라이선스  V2.0)**
+### **java로 개발된 오픈소스 엔터프라이즈 검색 플랫폼 (Apache 라이선스  V2.0)**
 
 (전문 검색, 강조, 실시간 인덱싱, 동적 클러스터링, 데이터베이스 연동, NoSQL 기능, 리치 도큐먼트(예: 워드, PDF) 관리 가능)
 
