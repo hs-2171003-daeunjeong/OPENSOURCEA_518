@@ -57,7 +57,7 @@
 
 *클러스터 - n 차원 공간에서 제품을 점으로 찍음 -> 유사한 장소에 있는 것을 그룹이라 하고 그룹들의 점을 클러스터라 부름
 
-### 1. 분류 (Classification or Categorization)
+### 3. 분류 (Classification or Categorization)
 
 교사학습 (사전에 데이터와 그들 간의 관례에 대한 정보를 가지고 있음) 
 
