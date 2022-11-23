@@ -3,13 +3,13 @@
 # MZ세대를 위한 맛집 추천 서비스
 
 **DFD 데이터 흐름도**
-![DFD](https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/main/5_18%20DFD.jpg?raw=true)
+![DFDhttps://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/main/5_18%20DFD.jpg?raw=true](https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/main/5_18%20DFD.jpg?raw=true)
 
 ---
 
 **박주용 - Scrapy**
 
-![scrapylogo](https://scrapy.org/img/scrapylogo.png)
+![https://scrapy.org/img/scrapylogo.png](https://scrapy.org/img/scrapylogo.png)
 
 **python으로 작성된 오픈소스 웹 크롤링 프레임워크**
 
@@ -38,7 +38,7 @@
 
 **전희연 - Apache Mahout**
 
-![mahout-logo-blue](https://mahout.apache.org/assets/mahout-logo-blue.svg)
+![https://mahout.apache.org/assets/mahout-logo-blue.svg](https://mahout.apache.org/assets/mahout-logo-blue.svg)
 
 **수학자, 통계학자 및 데이터 과학자가 자신의 알고리즘을 신속하게 구현할 수 있도록 설계된 분산 성형 대수학 프레임워크이자 수학적으로 표현한 Scala DSL (Apache 라이선스 V2.0)**
 
