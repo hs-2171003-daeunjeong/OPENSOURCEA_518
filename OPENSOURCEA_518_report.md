@@ -2,6 +2,11 @@
 
 # MZ세대를 위한 맛집 추천 서비스
 
+**DFD 데이터 흐름도**
+![https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/main/5_18%20DFD.jpg?raw=true](https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/main/5_18%20DFD.jpg?raw=true)
+
+---
+
 **박주용 -**
 
 ---
