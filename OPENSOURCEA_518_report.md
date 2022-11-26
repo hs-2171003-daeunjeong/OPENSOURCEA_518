@@ -94,7 +94,7 @@
 
 ---
 
-**정다은 - Geopy**
+**정다은 - Geopy**  
 <img src="https://geopy.readthedocs.io/en/stable/_images/logo-wide.png" width="600" height="300"/>  
 **지오코딩 웹 서비스를 위한 Python 클라이언트 (MIT 라이선스)**
 - 지오코더 및 기타 데이터 소스를 사용하여 전 세계의 주소, 도시, 국가 및 랜드마크의 좌표를 쉽게 찾을 수 있음
