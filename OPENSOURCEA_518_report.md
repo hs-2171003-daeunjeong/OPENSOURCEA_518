@@ -2,8 +2,25 @@
 
 # MZ세대를 위한 맛집 추천 서비스
 
+## 서비스 설명
+
+(내용)
+
+## GUI
+
+(내용)
+
+## 유사 서비스 분석
+
+(내용)
+
+## DFD
 **DFD 데이터 흐름도**
 ![https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/main/5_18%20DFD.jpg?raw=true](https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/main/5_18%20DFD.jpg?raw=true)
+
+
+
+## 각 오픈소스 소프트웨어 설명
 
 ---
 
@@ -11,7 +28,7 @@
 
 ![https://scrapy.org/img/scrapylogo.png](https://scrapy.org/img/scrapylogo.png)
 
-**python으로 작성된 오픈소스 웹 크롤링 프레임워크**
+**python으로 작성된 오픈소스 웹 크롤링 프레임워크 (BSD 라이센스)**
 
 웹 사이트를 탐색하고 구조화된 데이터를 추출하기 위한 애플리케이션 프레임워크 데이터 마이닝, 정보처리 또는 이력 아카이브와 같은 유용한 애플리케이션에 사용할 수 있다.
 
