@@ -29,7 +29,7 @@
 ---
 
 **박준서 - scikit-learn**
-<img src = "https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />
+<img src = "https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="300" height="300"/>
 **python을 대표하는 머신러닝 라이브러리  (BSD 라이센스)**
 - 예측 데이터 분석을 위한 간단하고 효율적인 도구
 - 모든 사람이 액세스 가능
