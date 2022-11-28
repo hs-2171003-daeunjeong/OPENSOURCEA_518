@@ -92,6 +92,10 @@
 
 **정다빈 - Apache Solr**
 
+![img](https://blog.kakaocdn.net/dn/b3nwrp/btqEk3ketov/NdkOyh7FkRBe398ojgHRzk/img.png)
+
+
+
 ---
 
 **정다은 - Geopy**  
