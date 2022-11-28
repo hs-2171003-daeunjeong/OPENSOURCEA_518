@@ -94,4 +94,33 @@
 
 ---
 
-**정다은 -**
+**정다은 - Geopy**  
+<img src="https://geopy.readthedocs.io/en/stable/_images/logo-wide.png" width="600" height="300"/>  
+**지오코딩 웹 서비스를 위한 Python 클라이언트 (MIT 라이선스)**
+- 지오코더 및 기타 데이터 소스를 사용하여 전 세계의 주소, 도시, 국가 및 랜드마크의 좌표를 쉽게 찾을 수 있음
+- Geopy와 함께 Python의 Folium 모듈을 사용하여 지도에 마커 표시 가능 (GUI 예시 참조)
+### 기능
+### 1. 거리 측정 기능
+geodesic distance(측지선 거리) 또는 great-circle distance(대원 거리)를 사용하여 두 지점 사이의 측지 거리를 계산  
+- 측지 거리: 두 점 사이의 최단 경로 거리
+- 곡면상의 두 점을 이루는 곡선의 거리를 계산하여, 구의 형태인 지구에서도 적용시켜볼 수 있음
+- 지구는
+**'이상적인 구'**
+로 간주하고 계산  
+#### 참고
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Law-of-haversines.svg/220px-Law-of-haversines.svg.png" width="300" height="300"/>  
+
+측지 거리를 계산할 때 지구를
+**'이상적인 구'**
+로 간주하여 계산한다는 것은, 약간의 오차가 발생한다.  
+왜냐하면 실제로 지구는 완전한 구가 아니기 때문이다.  
+따라서 Haversine distance 대신, WGS-84 좌표 시스템을 사용하는 Vincenty distance를 사용하는 것이 실제로 더 정확할 것이라고 한다.  
+- Haversine distance: 구에서 두 점 사이의 거리를 계산할 때 사용되는 공식인 '하버사인 공식'으로 구한 거리
+- Vincenty distance: '경위도 연산'으로 구한 거리
+### 2. 지오 코딩 기능
+주소나 장소 이름과 같은 위치에 대한 텍스트 기반 설명을 취하고 지리적 좌표(종종 위도/경도 쌍)를 반환하여 지구의 위치를 식별  
+우편 및 행정 경계와 함께 주소 지점, 거리/도로 네트워크의 컴퓨터 표현에 의존
+- 지오 코딩(Geocoding): 주소 혹은 지명 등의 고유명사를 통해, 위도와 경도로 이루어진 좌표값을 얻는 것
+- 위도, 경도 좌표를 통해 주소를 얻을 수 있는
+**'역지오 코딩'**
+도 가능
