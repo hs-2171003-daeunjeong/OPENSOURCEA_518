@@ -28,7 +28,24 @@
 
 ---
 
-**박준서 -**
+**박준서 - scikit-learn**
+
+<img src = "https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"/>
+
+**python을 대표하는 머신러닝 라이브러리  (BSD 라이센스)**
+- 예측 데이터 분석을 위한 간단하고 효율적인 도구
+- 모든 사람이 액세스 가능
+- 다양한 상황에서 재사용이 가능
+- NumPy, SciPy 및 matplotlib 기반
+### 기능
+- 분류 (Classification)
+  - 개체가 속한 범주를 식별 (스팸 감지, 이미지 인식)
+- 회귀 (regression)
+  - 객체와 관련된 연속 값 속성 예측 (약물 반응, 주가)
+- 클러스터링 (clustering)
+  - 유사한 개체를 세트로 자동 그룹화 (고객 세분화, 실험결과 그룹화)
+- 차원 감소 (dimensionality reduction)
+  - 고려할 무작위 변수의 수 감수 (시각화, 효율성 향상)
 
 ---
 
