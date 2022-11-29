@@ -1,6 +1,6 @@
 # MZ세대를 위한 맛집 추천 서비스 OPENSOURCEA_518
 1971142 박주용 / 2191214 박준서 / 1771115 박형선 / 1971324 전희연 / 2171126 정다빈 / 2171003 정다은
-<br/>
+<br/><br/><br/>
 
 ## 서비스 설명
 
@@ -18,23 +18,24 @@ MZ세대를 위한 맛집 추천 서비스는 맛집 데이터베이스를 기�
 
 오픈소스 소프트웨어를 이용하여 사용자로부터 검색어를 입력받으면 검색된 단어를 기반으로 맛집 정보 데이터베이스에서 평점이 우수한 맛집을 추천해주고 사용자의 정보(나이, 성별, 자주먹는 음식 등)와 사용자의 위치를 받아와 사용자 주변의 사용자 취향을 고려하여 맛집을 추천해준다.
 
----
+<br/><br/>
 
 ## GUI
 
 <img src="https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/main/GUI1.jpg?raw=true"  width="200" height="400"/><img src="https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/main/GUI2.jpg?raw=true"  width="200" height="400"/>
 
----
+<br/><br/>
 
 ## 유사 서비스 분석
 
 (내용)
+<br/><br/>
 
 ## DFD
 **DFD 데이터 흐름도**
 ![https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/main/5_18%20DFD.jpg?raw=true](https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/main/5_18%20DFD.jpg?raw=true)
 
----
+<br/><br/>
 
 ## 각 오픈소스 소프트웨어 설명
 
@@ -57,6 +58,8 @@ MZ세대를 위한 맛집 추천 서비스는 맛집 데이터베이스를 기�
 - 여러 형식(JSON, CSV, XML)으로 피드 내보내기를 생성
   - 여러 백엔드(FTP, S3, 로컬 파일 시스템)에 저장할 수 있는 내장 지원
 
+<br/><br/>
+
 ### 박준서 - scikit-learn
 
 <img src = "https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"/>
@@ -76,7 +79,11 @@ MZ세대를 위한 맛집 추천 서비스는 맛집 데이터베이스를 기�
 - 차원 감소 (dimensionality reduction)
   - 고려할 무작위 변수의 수 감수 (시각화, 효율성 향상)
 
+<br/><br/>
+
 ### 박형선 -
+
+<br/><br/>
 
 ### 전희연 - Apache Mahout
 
@@ -130,6 +137,8 @@ MZ세대를 위한 맛집 추천 서비스는 맛집 데이터베이스를 기�
 - Naïve Bayes 분류기 데이터에 대한 매우 단순한 가정이 완전히 독립되어 있음에도 불구하고 빠르면서도 상당히 정확
 - Complementary Naïve Bayes 단순성과 속도를 유지하는 동시에 Naïve Bayes 방법과 관련된 일부 문제를 해결하려고 시도
 
+<br/><br/>
+
 ### 정다빈 - Apache Solr
 
 ![img](https://blog.kakaocdn.net/dn/b3nwrp/btqEk3ketov/NdkOyh7FkRBe398ojgHRzk/img.png)
@@ -168,6 +177,7 @@ MZ세대를 위한 맛집 추천 서비스는 맛집 데이터베이스를 기�
 
 솔라 검색서버 URL을 사용하기에 인터넷을 통해 파일을 질의, 인덱스하는 어느 곳에서나 접근 가능
 
+<br/><br/>
 
 ### 정다은 - Geopy
 <img src="https://geopy.readthedocs.io/en/stable/_images/logo-wide.png" width="600" height="300"/>  
