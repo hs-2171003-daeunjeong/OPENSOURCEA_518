@@ -8,7 +8,8 @@
 
 ## GUI
 
-(내용)
+![https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/main/GUI1.jpg?raw=true](https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/main/GUI1.jpg?raw=true)
+![https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/main/GUI2.jpg?raw=true](https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/main/GUI2.jpg?raw=truee)
 
 ## 유사 서비스 분석
 
