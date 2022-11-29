@@ -5,6 +5,7 @@
 ## 서비스 설명
 
 **추진배경**
+![https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/heeyeonjeon/%EC%84%9C%EB%B9%84%EC%8A%A4%EC%86%8C%EA%B0%9Cimg.png?raw=true](https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/heeyeonjeon/%EC%84%9C%EB%B9%84%EC%8A%A4%EC%86%8C%EA%B0%9Cimg.png?raw=true)
 
 2021.12월에 건강의료전문미디어 매경헬스에서 최근 1년 내에 일주일 간 국내여행을 한 번이라도 가본 전국 거주 만 19세 이상 남녀 1,349명을 대상으로 여행 중 맛집 음식점 방문 행태를 조사하였다.
 
