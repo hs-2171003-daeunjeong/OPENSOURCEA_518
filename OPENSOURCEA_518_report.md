@@ -95,6 +95,9 @@ MZ세대를 위한 맛집 추천 서비스는 맛집 데이터베이스를 기�
 - CPU, GPU, CUDA 가속을 위한 모듈식 네이티브 솔버
 - 기계 학습으로 이루어짐, but 많은 기능이 있어 통계학, 알고리즘, 수학 공식을 들여다 보지 않아도 필요한 비즈니스 시나리오에 활용 가능.
 
+#### Mahout의 구성도
+![https://cafeptthumb-phinf.pstatic.net/MjAxOTEwMDFfMjM1/MDAxNTY5OTE1Mzk1OTE5.jRCCrYg8u-Ko0zTQgf4YPOqdYEbj7K0p9stkI5STDRkg._37dPysPAB8POnjwaSvYVQoyiva4SC4wTD5T7cT9Zfcg.PNG/Mahout%EA%B5%AC%EC%84%B1%EB%8F%84.png?type=w800](https://cafeptthumb-phinf.pstatic.net/MjAxOTEwMDFfMjM1/MDAxNTY5OTE1Mzk1OTE5.jRCCrYg8u-Ko0zTQgf4YPOqdYEbj7K0p9stkI5STDRkg._37dPysPAB8POnjwaSvYVQoyiva4SC4wTD5T7cT9Zfcg.PNG/Mahout%EA%B5%AC%EC%84%B1%EB%8F%84.png?type=w800)
+
 #### 기능
 
 #### 1. 협업 필터링 (Collaborative Filtering)
