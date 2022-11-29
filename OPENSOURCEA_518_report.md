@@ -1,4 +1,4 @@
-<center> 
+<div align="center" style="text-align:center">
 
 # MZ세대를 위한 맛집 추천 서비스 OPENSOURCEA_518
 1971142 박주용 / 2191214 박준서 / 1771115 박형선 / 1971324 전희연 / 2171126 정다빈 / 2171003 정다은
@@ -215,4 +215,4 @@ geodesic distance(측지선 거리) 또는 great-circle distance(대원 거리)�
 - 위도, 경도 좌표를 통해 주소를 얻을 수 있는
 **'역지오 코딩'**
 도 가능
-</center>
+</div>
