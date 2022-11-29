@@ -2,6 +2,7 @@
 
 # MZ세대를 위한 맛집 추천 서비스 OPENSOURCEA_518
 1971142 박주용 / 2191214 박준서 / 1771115 박형선 / 1971324 전희연 / 2171126 정다빈 / 2171003 정다은
+</div>
 <br/><br/><br/>
 
 ## 서비스 설명
@@ -23,8 +24,9 @@ MZ세대를 위한 맛집 추천 서비스는 맛집 데이터베이스를 기�
 <br/><br/>
 
 ## GUI
-
+<div align="center" style="text-align:center">
 <img src="https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/main/GUI1.jpg?raw=true"  width="200" height="400"/><img src="https://github.com/hs-2171003-daeunjeong/OPENSOURCEA_518/blob/main/GUI2.jpg?raw=true"  width="200" height="400"/>
+</div>
 
 <br/><br/>
 
@@ -186,6 +188,7 @@ MZ세대를 위한 맛집 추천 서비스는 맛집 데이터베이스를 기�
 
 ### 정다은 - Geopy
 <img src="https://geopy.readthedocs.io/en/stable/_images/logo-wide.png" width="600" height="300"/>  
+
 **지오코딩 웹 서비스를 위한 Python 클라이언트 (MIT 라이선스)**
 
 - 지오코더 및 기타 데이터 소스를 사용하여 전 세계의 주소, 도시, 국가 및 랜드마크의 좌표를 쉽게 찾을 수 있음
@@ -215,4 +218,3 @@ geodesic distance(측지선 거리) 또는 great-circle distance(대원 거리)�
 - 위도, 경도 좌표를 통해 주소를 얻을 수 있는
 **'역지오 코딩'**
 도 가능
-</div>
