@@ -1,4 +1,4 @@
-# OPENSOURCEA_518_report ## MZ세대를 위한 맛집 추천 서비스
+# MZ세대를 위한 맛집 추천 서비스 OPENSOURCEA_518
 
 ### 서비스 설명
 
