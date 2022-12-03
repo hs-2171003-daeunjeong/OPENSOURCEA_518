@@ -122,7 +122,7 @@ Geopy를 이용하여 구글 지도 혹은 T map에 맛집 위치를 표기하�
 <br/><br/>
 
 ### 박형선 - KoNLPy
-![https://velog.velcdn.com/images/jane15/post/be4bd194-1ec8-4981-853c-7bb657617c1a/image.png]
+![https://velog.velcdn.com/images/jane15/post/be4bd194-1ec8-4981-853c-7bb657617c1a/image.png](https://velog.velcdn.com/images/jane15/post/be4bd194-1ec8-4981-853c-7bb657617c1a/image.png)
 
 **한국어 정보처리를 위한 파이썬 패키지 (GPL v3 또는 그 이상)**
 
