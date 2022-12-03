@@ -132,15 +132,18 @@ Geopy를 이용하여 구글 지도 혹은 T map에 맛집 위치를 표기하�
 - 기존의 C, C++, Java 등의 언어를 통해 형태소 분석을 할 수 있는 라이브러리들을 파이썬 라이브러리로 통합해서 사용할 수 있도록 하여 한국어 구문 분석을 쉽게 할 수 있도록 만들어진 라이브러리이다.
 
 **NLP의 한 종류**
-NLP(Natural Language Processing) : 자연어처리라는 뜻으로 텍스트에서 의미있는 정보를 분석, 추출하고 이해하는 일련의 기술집합을 뜻한다. 컴퓨터와 인간 언어 사이의 상호 작용하는 인공지능의 핵심 기능 중 하나이다.
+- NLP(Natural Language Processing) : 자연어처리라는 뜻으로 텍스트에서 의미있는 정보를 분석, 추출하고 이해하는 일련의 기술집합을 뜻한다. 컴퓨터와 인간 언어 사이의 상호 작용하는 인공지능의 핵심 기능 중 하나이다.
 NLP를 활용한 대표적 예시 : Apple Siri, Google Translate
 
 #### 형태소 분석 라이브러리 목록
--Hannanum : KAIST Semantic Web Research Center 개발.
--Kkma : 서울대학교 IDS(Intelligent Data Systems) 연구실 개발.
--Komoran : Shineware에서 개발.
--Mecab : 일본어용 형태소 분석기를 한국어를 사용할 수 있도록 수정한 것.
--Okt(Twitter) : 오픈 소스 한국어 분석기. 과거 트위터 형태소 분석기.
+- Hannanum : KAIST Semantic Web Research Center 개발.
+- Kkma : 서울대학교 IDS(Intelligent Data Systems) 연구실 개발.
+- Komoran : Shineware에서 개발.
+- Mecab : 일본어용 형태소 분석기를 한국어를 사용할 수 있도록 수정한 것.
+- Okt(Twitter) : 오픈 소스 한국어 분석기. 과거 트위터 형태소 분석기.
+
+**GPL 3.0과 Apache 2.0은 충돌하지 않음**
+- Apache License 2.0에서 특허에 관한 조항이 삽입되어  GPL 2.0으로 배포되는 코드와 결합되는 것이 어렵다는 문제가 있었는데, GPL 3.0에서는 이 문제를 해결하였음.
 
 <br/><br/>
 
