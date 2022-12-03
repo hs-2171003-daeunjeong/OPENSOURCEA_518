@@ -142,6 +142,9 @@ NLP를 활용한 대표적 예시 : Apple Siri, Google Translate
 -Mecab : 일본어용 형태소 분석기를 한국어를 사용할 수 있도록 수정한 것.
 -Okt(Twitter) : 오픈 소스 한국어 분석기. 과거 트위터 형태소 분석기.
 
+* GPL 3.0과 Apache 2.0은 충돌하지 않음
+Apache License 2.0에서 특허에 관한 조항이 삽입되어  GPL 2.0으로 배포되는 코드와 결합되는 것이 어렵다는 문제가 었었는데, GPL 3.0에서는 이 문제를 해결하였음.
+
 <br/><br/>
 
 ### 전희연 - Apache Mahout
